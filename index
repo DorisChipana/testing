@@ -1,9 +1,9 @@
 <!DOCTYPE html5>
 <html lang="es">
- <head> 
- <title>...hola mundo cruel</title>
- 
- 
+ <head>
+ <meta charset="utf-8">
+ <title>...hola mundo cruel</title> 
+ <link rel="stylesheet"  href="main.css">
  <body>
    <h1>mundo cruel </h1>
  </body>
